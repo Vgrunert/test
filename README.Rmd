@@ -6,5 +6,5 @@ output: rmarkdown::github_document
 
 
 ```{r}
-print(rand(10))
+print(runif(10))
 ```
