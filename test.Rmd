@@ -1,0 +1,10 @@
+---
+title: "foo bar"
+author: "me"
+output: rmarkdown::github_document
+---
+
+
+```{r}
+print(rand(10))
+```
